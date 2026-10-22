@@ -1,0 +1,48 @@
+NARRACIÓN — THE LEGEND OF YOUR SELF · Tráiler TikTok (45 s)
+Voz: masculina joven-adulta, español latino neutro, enérgica, natural y cercana.
+
+ESTADO: la voz TODAVÍA NO ESTÁ GRABADA. En el entorno de producción no había ningún
+servicio de síntesis de voz disponible, así que el vídeo final lleva música, efectos
+y subtítulos, pero no voz. El guion y los tiempos de abajo están listos para grabar.
+
+------------------------------------------------------------------
+GUION COMPLETO (orden original, sin cambios de texto)
+------------------------------------------------------------------
+¡Ey, aventureros! ¡Miren lo que estoy creando!
+Un mundo lleno de lugares por descubrir, personajes que conocer y aventuras que te esperan en cada rincón.
+Explora aldeas, recorre caminos, adéntrate en lugares misteriosos y descubre qué secretos esconde este mundo.
+¡Y esto es solo una pequeña muestra de todo lo que puedes encontrar!
+Cada zona tiene algo nuevo que explorar… y quién sabe qué te espera más adelante.
+¿Te atreves a descubrirlo?
+¡Prepárate, porque esta aventura apenas comienza!
+Sígueme para ver cómo evoluciona el juego y no perderte las próximas novedades.
+
+------------------------------------------------------------------
+TOMAS DE VOZ PARA GRABAR (un archivo por frase)
+Guárdalas en public/audio/voz/01.wav … 15.wav y activa NARRATION.enabled en
+src/data/audio.ts. Cada archivo empieza en el segundo indicado; la música baja
+sola mientras suena la voz. Si una frase dura un poco menos, no pasa nada; si dura
+más, se solapará con la siguiente (ajusta startMs/endMs en src/data/subtitles.ts).
+------------------------------------------------------------------
+Archivo  Inicio   Fin      Escena                    Texto
+01.wav   00.30 s  01.40 s  1 Gancho                  ¡Ey, aventureros!
+02.wav   01.40 s  02.85 s  1 Gancho                  ¡Miren lo que estoy creando!
+03.wav   03.20 s  05.40 s  2 Mundo                   Un mundo lleno de lugares por descubrir,
+04.wav   05.50 s  08.60 s  2 Mundo                   personajes que conocer y aventuras que te esperan en cada rincón.
+05.wav   08.90 s  10.90 s  3 Exploración             Explora aldeas, recorre caminos,
+06.wav   11.00 s  13.20 s  3 Exploración             adéntrate en lugares misteriosos
+07.wav   13.40 s  16.20 s  4 Personajes              y descubre qué secretos esconde este mundo.
+         (16.2–18.6 s: pausa para que la imagen respire)
+08.wav   18.60 s  20.70 s  5 Cambio de ritmo         ¡Y esto es solo una pequeña muestra
+09.wav   20.70 s  22.80 s  5 Cambio de ritmo         de todo lo que puedes encontrar!
+10.wav   23.40 s  26.40 s  6 Montaje                 Cada zona tiene algo nuevo que explorar…
+         (26.4–29.5 s: pico del montaje, solo música)
+11.wav   29.50 s  32.10 s  7 Misterio                …y quién sabe qué te espera más adelante.
+12.wav   32.30 s  33.90 s  7 Misterio                ¿Te atreves a descubrirlo?
+13.wav   34.80 s  37.90 s  8 Clímax                  ¡Prepárate, porque esta aventura apenas comienza!
+14.wav   40.40 s  42.50 s  9 Cierre                  Sígueme para ver cómo evoluciona el juego
+15.wav   42.50 s  44.60 s  9 Cierre                  y no perderte las próximas novedades.
+
+Nota de sincronía: el guion conserva su orden original. Por eso "¡Y esto es solo una
+pequeña muestra…!" cae en la escena 5 y "Cada zona tiene algo nuevo…" en el montaje
+de la escena 6 (al revés que en la lista de escenas del encargo).

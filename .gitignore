@@ -5,3 +5,6 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Gameplay original (136 MB, supera el límite de GitHub). Está en la release "gameplay22".
+public/gameplay/gameplay.mp4
