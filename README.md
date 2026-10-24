@@ -56,3 +56,7 @@ Note that for some entities a company license is needed. [Read the terms here](h
 ## Tráiler TikTok
 
 El tráiler del juego (composición `GameTrailerTikTok`) y todos sus entregables están en [`entregables/`](entregables/README.md).
+
+## Anuncio "Día uno" (TikTok)
+
+Composición `RobloxDayOneTrailer`, con voz generada por IA. Entregables en [`entregables/dayone/`](entregables/dayone/README.md).

@@ -1,0 +1,59 @@
+GUION FINAL — "DÍA UNO" · Anuncio TikTok de 38 s
+Juego: THE LEGEND OF YOUR SELF (RPG en Roblox)
+
+VOZ: generada con IA, en local.
+  Motor: Kokoro v1.0 (modelo neuronal de voz, licencia Apache 2.0) vía kokoro-onnx.
+  Voz: em_alex (masculina). Fonética: español latinoamericano (espeak-ng "es-419", con seseo).
+  Archivos: public/dayone/audio/voz/01.wav … 11.wav y Roblox_DayOne_Voz_IA.wav (pista completa).
+  Verificación: cada frase se transcribió con Whisper (modelo "small", en local) y coincide
+  con el guion; la mezcla final también se transcribió completa encima de la música.
+
+------------------------------------------------------------------
+POR QUÉ LA VERSIÓN CONDENSADA
+------------------------------------------------------------------
+Se generó primero el guion COMPLETO con la misma voz y se midió:
+  35,5 s de voz pura → unos 38,7 s con pausas mínimas de 0,45 s.
+No cabía en 38 s sin acelerar la voz ni quitar las pausas del gancho y de "día uno".
+Por eso se usó la versión condensada (30 s de voz), tal como indicaba el encargo.
+
+------------------------------------------------------------------
+GUION NARRADO (tiempos reales en el vídeo)
+------------------------------------------------------------------
+01   0,25 –  3,04 s   Imagínate que este juego se vuelva famoso…
+02   3,35 –  6,31 s   y tú puedas decir: ¡Yo estuve desde el principio!
+03   7,05 –  9,73 s   Estoy creando mi propio RPG en Roblox,
+04   9,93 – 12,36 s   ¡y quiero que formes parte de esta aventura!
+05  13,10 – 16,53 s   Ya puedes venir a explorar y probar lo que llevo construido.
+                      (16,5–19 s: montaje, solo música)
+06  19,10 – 21,55 s   ¡Y yo también estaré jugando con ustedes!
+07  21,75 – 25,43 s   Quiero escuchar tus ideas y mejorar el juego junto a la comunidad.
+08  25,63 – 27,67 s   Y si algún día llegamos lejos,
+09  27,87 – 30,76 s   recordaré a quienes estuvieron desde el día uno.
+                      (30,8–32,3 s: pausa emotiva)
+10  32,30 – 35,79 s   Entra, pruébalo, deja tu like, sígueme y comenta: ¡Yo estuve aquí!
+11  35,99 – 37,59 s   ¡Nos vemos dentro del juego!
+
+Ritmo por tramos: gancho y promesa algo más lentos (0,95×, curiosidad); presentación e
+invitación algo más rápidas (1,05×, entusiasmo); conexión personal a ritmo natural;
+momento emotivo más pausado (0,92×); llamada a la acción con energía (1,08×).
+
+------------------------------------------------------------------
+TEXTOS EN PANTALLA
+------------------------------------------------------------------
+0–3 s     ¿Y SI ESTE JUEGO SE HACE FAMOSO?
+3–7 s     Y TÚ PODRÁS DECIR: «YO ESTUVE DESDE EL DÍA UNO»
+7–13 s    MI PROPIO RPG EN ROBLOX            (etiqueta: LLANURA ÁMBAR)
+13–19 s   ¡VEN A PROBARLO!                    (etiquetas: EXPLORA · DESCUBRE)
+19–25 s   ¡YO ESTARÉ JUGANDO CONTIGO!         (etiqueta: EN DESARROLLO)
+25–32 s   RECORDARÉ A LOS DEL DÍA UNO
+32–38 s   ENTRA AL JUEGO · DA LIKE Y SÍGUEME · COMENTA: YO ESTUVE AQUÍ
+
+------------------------------------------------------------------
+TEXTO SUGERIDO PARA LA DESCRIPCIÓN DE TIKTOK
+------------------------------------------------------------------
+Estoy creando mi propio RPG en Roblox y quiero que formes parte desde el día uno. 🗡️
+Entra, pruébalo y comenta "YO ESTUVE AQUÍ" 👇
+[pega aquí el enlace real del juego en Roblox]
+#roblox #rpg #gamedev #indiedev #robloxdev
+
+(No se incluyó ningún enlace porque no se proporcionó uno real.)

@@ -3,6 +3,7 @@ import {HelloWorld} from './HelloWorld';
 import {Logo} from './HelloWorld/Logo';
 import {Title} from './HelloWorld/Title';
 import {Trailer} from './Trailer';
+import {RobloxDayOneTrailer} from './dayone/RobloxDayOneTrailer';
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -14,6 +15,15 @@ export const RemotionRoot: React.FC = () => {
         id="GameTrailerTikTok"
         component={Trailer}
         durationInFrames={1350}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        // Anuncio "Día uno" para TikTok: npx remotion render RobloxDayOneTrailer
+        id="RobloxDayOneTrailer"
+        component={RobloxDayOneTrailer}
+        durationInFrames={1140}
         fps={30}
         width={1080}
         height={1920}
